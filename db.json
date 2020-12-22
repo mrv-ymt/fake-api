@@ -1,4 +1,5 @@
-[
+{
+    "products": [
     {
         "sku":"MTG-B1000XBD-1AJF",
         "productName": "MTG-B1000XBD-1A",
@@ -1190,3 +1191,4 @@
         ]
     }
 ]
+}
